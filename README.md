@@ -62,6 +62,20 @@ A modern image gallery showcasing various categories with filtering capabilities
 - **Technology** (3 images): Circuit Board, Laptop, VR Headset
 - **Animals** (3 images): Lion, Eagle, Parrot
 
+## 📸 Screenshots
+
+### Main Gallery View
+![Gallery Main View](images/gallery-main.png)
+*All 12 images displayed in responsive grid layout with dark theme*
+
+### Category Filtering
+![Gallery Filtered View](images/gallery-filter.png)
+*Category filter in action - showing only selected category images*
+
+### Lightbox View
+![Gallery Lightbox](images/gallery-lightbox.png)
+*Full-screen lightbox view with navigation controls and image details*
+
 ## 💡 Features Implemented
 
 ✅ Responsive grid layout  
